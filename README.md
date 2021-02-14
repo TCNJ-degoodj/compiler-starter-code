@@ -2,9 +2,9 @@ Starter Code for BMinor Project
 -------------------------------
 
 This directory contains the starter code for the BMinor compiler.
-Students in CSE 40243 are *required* to use these header files as the basis for your work.
-Trust us, it will get you started on the right track, and make it
-much easier for the instructors to help you with any difficulties.
+Students in CSC 425 are *required* to use these header files as the basis for your work.
+Trust me, it will get you started on the right track, and make it
+much easier for the instructor to help you with any difficulties.
 
 Of course, to complete the project, you will have to add quite a bit
 to what is here.  You are free to add new files, add items to the
@@ -12,7 +12,7 @@ structures, implement new functions, and so forth.  But stick to
 the basic structure that `decl` represents a declaration,
 `expr` represents an expression, and so forth.
 
-For your sanity and ours, you *must* adhere to the following style:
+For your sanity and mine, you *must* adhere to the following style:
 - Every function must be prefixed with the name of the structure that it manipulates.
 - Function prototypes go in the `.h` file of the corresponding name.
 - Function implementations go in the `.c` file of the corresponding name.
